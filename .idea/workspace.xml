@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daa09c08-ea76-485f-be76-91b5945f1865" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/kk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GEja2hFXbtDmw0yDkbi9dvglWf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665960699534</updated>
-      <workItem from="1665960701081" duration="337000" />
+      <workItem from="1665960701081" duration="467000" />
     </task>
     <servers />
   </component>
