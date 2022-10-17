@@ -43,7 +43,7 @@ public class Main {
                     treeString = new Tree();
                     treeDouble = null;
                     treeInt = null;
-                    break;//dsdsdsdsd
+                    break;//alamakota
                 case "insert":
                     if (treeInt != null) {
                         treeInt.insert(Integer.parseInt(userInput[1]));
